@@ -49,7 +49,7 @@ $ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
 $ git checkout -b branch_name
 ```
   </blockquote>
-  <li>OR you can create the branch as shown here:</li>
+  <li>OR you can create the branch in Github as shown here:</li>
   
 ![branch](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic3_branch.png)
   
