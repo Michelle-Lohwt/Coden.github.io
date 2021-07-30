@@ -82,6 +82,16 @@ $ git add <some files>
 ---
 
 ### Step 5: Commit
+* You are suggested to use Conventional Commits in your commit message to ease other contributors reading the documentation, read [here](https://www.conventionalcommits.org/en/v1.0.0/)
+* To commit give a descriptive message for the convenience of reviewer by using terminal:  
+```
+# This message get associated with all files you have changed  
+$ git commit -m "message"  
+```
+- Using GitHub
+![commit](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic5_commit.png)
+---
+  
 ### Step 6: Push it to your forked branch
 ### Step 7: Make a Pull Request (PR)
 
