@@ -93,8 +93,22 @@ $ git commit -m "message"
 ---
   
 ### Step 6: Push it to your forked branch
+* Push your changes to the forked branch
+```
+git push
+```
+* You should see something like this in your Github after pushing:
+![push](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic6_push.png)
+---
+  
 ### Step 7: Make a Pull Request (PR)
+* Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.
+![pull_request](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic7_create_pull.png)
+* AND compare the forked branch with the main branch
+![compare](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic8_compare_repo.png)
 
+---
+  
 Need more help?
 Take a look at some resources below:
 *
