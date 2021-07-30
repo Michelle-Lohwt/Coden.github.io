@@ -66,6 +66,21 @@ $ git checkout branch_name
 ---
   
 ### Step 4: Work on the issue assigned
+* Work on the issue(s) assigned to you.   
+* Add all the files/folders needed.  
+* After you've made changes or made your contribution to the project add changes to the branch you've just created by using terminal:  
+```  
+# To add all new files to branch Branch_Name  
+$ git add .  
+
+# To add only a few files to Branch_Name
+$ git add <some files>
+```
+- Using GitHub
+![upload_file](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic4_upload_file.png)
+
+---
+
 ### Step 5: Commit
 ### Step 6: Push it to your forked branch
 ### Step 7: Make a Pull Request (PR)
