@@ -9,6 +9,21 @@ Let's break it down into bite-size steps for you!
 Once you are on GitHub and Discord, move on to step 1
 
 ### Step 1: Fork the project
+* Fork this Repository. This will create a Local Copy of this Repository on your Github Profile.
+![fork](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic1_fork.png)
+
+<ul>
+  <li>Add the forked repository to your computer directory:</li>
+  <blockquote>
+
+```
+$ git clone https://github.com/<your-username>/Coden.github.io 
+$ cd <repo-name>  
+$ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
+```
+  </blockquote>
+</ul>
+
 ### Step 2: Find an issue
 ### Step 3: Create a branch
 ### Step 4: Work on the issue assigned
