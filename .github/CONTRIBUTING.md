@@ -8,6 +8,8 @@ Let's break it down into bite-size steps for you!
 * Click [here](https://discord.gg/rSKKKZEnVn) to join us in our Discord Server and meet the rest of the community!
 Once you are on GitHub and Discord, move on to step 1
 
+---
+
 ### Step 1: Fork the project
 * Fork this Repository. This will create a Local Copy of this Repository on your Github Profile.
 ![fork](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic1_fork.png)
@@ -18,19 +20,51 @@ Once you are on GitHub and Discord, move on to step 1
 
 ```
 $ git clone https://github.com/<your-username>/Coden.github.io 
-$ cd <repo-name>  
+    
+# This is a comment, change **repo_name** in the following to your repository name
+$ cd repo_name 
+    
 $ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
 ```
   </blockquote>
 </ul>
+  
+---
 
 ### Step 2: Find an issue
 * Take a look at the Existing Issues or create your **own** Issues!  
 * Wait for the Issue to be assigned to you after which you can start working on it.  
 * Note : Every change in this project should/must have an associated issue.
 ![issue](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic2_find_issue.png)
-
+  
+---
+  
 ### Step 3: Create a branch
+<ul>
+  <li>Create a new branch in your computer directory. Use its name to identify the issue you are addressing.</li>
+  <blockquote>
+    
+```
+# This is a comment, change **branch_name** in the following to the name of issue you are addressing
+$ git checkout -b branch_name
+```
+  </blockquote>
+  <li>OR you can create the branch as shown here:</li>
+  
+![branch](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic3_branch.png)
+  
+<blockquote>
+    
+```
+# After you create the branch here, remember to update it in your computer directory
+$ git pull
+$ git checkout branch_name
+```
+  </blockquote>
+</ul>
+
+---
+  
 ### Step 4: Work on the issue assigned
 ### Step 5: Commit
 ### Step 6: Push it to your forked branch
