@@ -25,6 +25,11 @@ $ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
 </ul>
 
 ### Step 2: Find an issue
+* Take a look at the Existing Issues or create your **own** Issues!  
+* Wait for the Issue to be assigned to you after which you can start working on it.  
+* Note : Every change in this project should/must have an associated issue.
+![issue](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic2_find_issue.png)
+
 ### Step 3: Create a branch
 ### Step 4: Work on the issue assigned
 ### Step 5: Commit
