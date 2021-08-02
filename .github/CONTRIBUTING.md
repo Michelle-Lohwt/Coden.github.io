@@ -27,21 +27,17 @@ Once you are on GitHub and Discord, move on to step 1
 * Go to `Code` -> `HTTPS` to copy the link: <br>
 ![fork2](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic9_fork.png)
 
-<ul>
-  <li>Add the forked repository to your computer directory:</li>
-  <blockquote>
+* Add the forked repository to your computer directory:
 
-```
+```bash
 $ git clone https://github.com/<your-username>/Coden.github.io 
     
 # This is a comment, change **repo_name** in the following to your repository name
-$ cd repo_name 
+$ cd repo_name
     
 $ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
 ```
-  </blockquote>
-</ul>
-  
+
 ---
 
 ### Step 2: Find an issue
@@ -53,28 +49,21 @@ $ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
 ---
   
 ### Step 3: Create a branch
-<ul>
-  <li>Create a new branch in your computer directory. Use its name to identify the issue you are addressing.</li>
-  <blockquote>
-    
-```
-# This is a comment, change **branch_name** in the following to the name of issue you are addressing
+* Create a new branch in your computer directory. Use its name to identify the issue you are addressing.
+  
+```bash
+# Change **branch_name** in the following to the name of issue you are addressing
 $ git checkout -b branch_name
 ```
-  </blockquote>
-  <li>OR you can create the branch in Github as shown here:</li>
-  
+
+* OR you can create the branch in Github as shown here: 
 ![branch](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic3_branch.png)
-  
-<blockquote>
     
-```
+```bash
 # After you create the branch here, remember to update it in your computer directory
 $ git pull
 $ git checkout branch_name
 ```
-  </blockquote>
-</ul>
 
 ---
   
@@ -82,7 +71,7 @@ $ git checkout branch_name
 * Work on the issue(s) assigned to you.   
 * Add all the files/folders needed.  
 * After you've made changes or made your contribution to the project add changes to the branch you've just created by using terminal:  
-```  
+```bash
 # To add all new files to branch Branch_Name  
 $ git add .  
 
@@ -97,7 +86,7 @@ $ git add <some files>
 ### Step 5: Commit
 * You are suggested to use Conventional Commits in your commit message to ease other contributors reading the documentation, read [here](https://www.conventionalcommits.org/en/v1.0.0/)
 * To commit give a descriptive message for the convenience of reviewer by using terminal:  
-```
+```bash
 # This message get associated with all files you have changed  
 $ git commit -m "message"  
 ```
@@ -107,7 +96,7 @@ $ git commit -m "message"
   
 ### Step 6: Push it to your forked branch
 * Push your changes to the forked branch
-```
+```bash
 git push
 ```
 * You should see something like this in your Github after pushing:
