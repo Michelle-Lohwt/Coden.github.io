@@ -22,7 +22,10 @@ Once you are on GitHub and Discord, move on to step 1
 
 ### Step 1: Fork the project
 * Fork this Repository. This will create a Local Copy of this Repository on your Github Profile.
-![fork](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic1_fork.png)
+![fork](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic1_fork.png)
+
+* Go to `Code` -> `HTTPS` to copy the link: <br>
+![fork2](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic9_fork.png)
 
 <ul>
   <li>Add the forked repository to your computer directory:</li>
@@ -45,7 +48,7 @@ $ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
 * Take a look at the Existing Issues or create your **own** Issues!  
 * Wait for the Issue to be assigned to you after which you can start working on it.  
 * Note : Every change in this project should/must have an associated issue.
-![issue](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic2_find_issue.png)
+![issue](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic2_find_issue.png)
   
 ---
   
@@ -61,7 +64,7 @@ $ git checkout -b branch_name
   </blockquote>
   <li>OR you can create the branch in Github as shown here:</li>
   
-![branch](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic3_branch.png)
+![branch](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic3_branch.png)
   
 <blockquote>
     
@@ -87,7 +90,7 @@ $ git add .
 $ git add <some files>
 ```
 - Using GitHub
-![upload_file](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic4_upload_file.png)
+![upload_file](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic4_upload_file.png)
 
 ---
 
@@ -99,7 +102,7 @@ $ git add <some files>
 $ git commit -m "message"  
 ```
 - Using GitHub
-![commit](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic5_commit.png)
+![commit](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic5_commit.png)
 ---
   
 ### Step 6: Push it to your forked branch
@@ -108,14 +111,14 @@ $ git commit -m "message"
 git push
 ```
 * You should see something like this in your Github after pushing:
-![push](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic6_push.png)
+![push](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic6_push.png)
 ---
   
 ### Step 7: Make a Pull Request (PR)
 * Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.
-![pull_request](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic7_create_pull.png)
+![pull_request](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic7_create_pull.png)
 * AND compare the forked branch with the main branch
-![compare](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/pic8_compare_repo.png)
+![compare](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic8_compare_repo.png)
 
 ---
   
