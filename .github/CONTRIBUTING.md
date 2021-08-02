@@ -1,5 +1,5 @@
 # Contributing to JobBuddy
-> We are thrilled that you are interested in contributing to our JobBuddy Discord Bot for Coden!
+We are thrilled that you are interested in contributing to our JobBuddy Discord Bot for Coden!
 No worries if you are a first-timer contributing to this project or to open-source in general.
 Let's break it down into bite-size steps for you!
 
@@ -30,11 +30,13 @@ Once you are on GitHub and Discord, move on to step 1
 * Add the forked repository to your computer directory:
 
 ```bash
+# clone the repo with the link coiped above
 $ git clone https://github.com/<your-username>/Coden.github.io 
     
-# This is a comment, change **repo_name** in the following to your repository name
+# change *repo_name* to your forked repository name
 $ cd repo_name
-    
+
+# add upstream to get updates from the original repository    
 $ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
 ```
 
@@ -42,7 +44,9 @@ $ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
 
 ### Step 2: Find an issue
 * Take a look at the Existing Issues or create your **own** Issues!  
-* Wait for the Issue to be assigned to you after which you can start working on it.  
+* Comment under the issue that you would like to work on.
+* Issue assign is based on first come first serve basis.
+* Wait for an admin to assign the issue to you, then you can start working on it.  
 * Note : Every change in this project should/must have an associated issue.
 ![issue](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic2_find_issue.png)
   
@@ -56,7 +60,7 @@ $ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
 $ git checkout -b branch_name
 ```
 
-* OR you can create the branch in Github as shown here: 
+* OR you can create the branch in Github as shown here:  
 ![branch](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/assets/images/pic3_branch.png)
     
 ```bash
