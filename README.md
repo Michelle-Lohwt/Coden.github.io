@@ -15,6 +15,9 @@
 ## Aim of project
 Web project to display information about our community and attract collaborations with third parties.
 
+## Contributing to this project
+Have a look at our guide for contributing to this project [here](https://github.com/CodenCommunity/Coden.github.io/blob/main/.github/CONTRIBUTING.md)
+
 ## Contributors 🌟
 
 <a href="https://github.com/CodenCommunity/Coden.github.io/graphs/contributors">
