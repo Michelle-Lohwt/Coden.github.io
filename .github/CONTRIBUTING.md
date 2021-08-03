@@ -4,14 +4,14 @@ No worries if you are a first-timer contributing to this project or to open-sour
 Let's break it down into bite-size steps for you!
 
 ## Table of Contents
-* [Step 0: Are you a Codenian?](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/.github/CONTRIBUTING.md#step-0-are-you-a-codenian)
-* [Step 1: Fork the project](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/.github/CONTRIBUTING.md#step-1-fork-the-project)
-* [Step 2: Find an issue](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/.github/CONTRIBUTING.md#step-2-find-an-issue)
-* [Step 3: Create a branch](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/.github/CONTRIBUTING.md#step-3-create-a-branch)
-* [Step 4: Work on the issue assigned](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/.github/CONTRIBUTING.md#step-4-work-on-the-issue-assigned)
-* [Step 5: Commit](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/.github/CONTRIBUTING.md#step-5-commit)
-* [Step 6: Push it to your forked branch](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/.github/CONTRIBUTING.md#step-6-push-it-to-your-forked-branch)
-* [Step 7: Make a Pull Request (PR)](https://github.com/Michelle-Lohwt/Coden.github.io/blob/branch1/.github/CONTRIBUTING.md#step-7-make-a-pull-request-pr)
+* [Step 0: Are you a Codenian?](https://github.com/CodenCommunity/Coden.github.io/blob/main/.github/CONTRIBUTING.md#step-0-are-you-a-codenian)
+* [Step 1: Fork the project](https://github.com/CodenCommunity/Coden.github.io/blob/main/.github/CONTRIBUTING.md#step-1-fork-the-project)
+* [Step 2: Find an issue](https://github.com/CodenCommunity/Coden.github.io/blob/main/.github/CONTRIBUTING.md#step-2-find-an-issue)
+* [Step 3: Create a branch](https://github.com/CodenCommunity/Coden.github.io/blob/main/.github/CONTRIBUTING.md#step-3-create-a-branch)
+* [Step 4: Work on the issue assigned](https://github.com/CodenCommunity/Coden.github.io/blob/main/.github/CONTRIBUTING.md#step-4-work-on-the-issue-assigned)
+* [Step 5: Commit](https://github.com/CodenCommunity/Coden.github.io/blob/main/.github/CONTRIBUTING.md#step-5-commit)
+* [Step 6: Push it to your forked branch](https://github.com/CodenCommunity/Coden.github.io/blob/main/.github/CONTRIBUTING.md#step-6-push-it-to-your-forked-branch)
+* [Step 7: Make a Pull Request (PR)](https://github.com/CodenCommunity/Coden.github.io/blob/main/.github/CONTRIBUTING.md#step-7-make-a-pull-request-pr)
 
 ### Step 0: Are you a Codenian?
 * Click [here](https://github.com/CodenCommunity/Support/issues/new?assignees=LeeRenJie&labels=Join+Coden+GitHub&template=join-coden-github.md&title=Join+Coden+on+GitHub) to be a member of Coden on GitHub to contribute to any in-house projects.
